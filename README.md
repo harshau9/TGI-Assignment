@@ -1,7 +1,7 @@
 # Frontend Assignment
 
 ## Overview
-This repository contains the source code for a company assignment project for Turnover.biz, an e-commerce platform. The project consists of three main pages: signup, login, and products page.
+This repository contains the source code for a company assignment project for Turnover.biz. The project consists of three main pages: signup, login, and products page.
 
 - **Signup Page**: Users can create a new account by providing their name, email, and password. The signup form is designed with modern UI components for ease of use and accessibility.
 
